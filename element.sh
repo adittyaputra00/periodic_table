@@ -1,3 +1,4 @@
+# Script to fetch element details from PostgreSQL database
 #!/bin/bash
 
 # Connect to the database
